@@ -1,3 +1,4 @@
+// 32 -  Write a program to find the roots of the quadratic equation ?   ( ax^2 +bx +c = 0 )  where, d = sqrt(b*b-4*a*c)  ;   x1 = (-b+d)/(2*a)   ;   x2 = (-b-d)/(2*a)
 #include <stdio.h>
 int main() {
 

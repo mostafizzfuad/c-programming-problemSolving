@@ -1,6 +1,6 @@
 
-Practice Program ::  (Basic)
-**************************
+Practice Program :: 1  (Basic)
+******************************
 1 -  Write a program to prints your name ?
 2 -  An integer variable num that will contain 10. Write a program that prints an integer number ?
 3 -  Write a program that prints two integer numbers ?
@@ -30,3 +30,27 @@ Practice Program ::  (Basic)
 
 18 -  C program to convert  Octal to Hexadecimal ?  [ o= 16 , h= e; ]
 19 -  C program to convert  Hexadecimal to Octal ?  [ o= 16 , h= e; ]
+
+
+
+
+Practice Program :: 2  ( Arithmetic Operator )
+**********************************************
+20 -  Write a program that takes two integer and display sum, subtraction, multiplication, division and reminder ?
+21 -  Write a program that takes two integer and display sum ?
+22 -  Write a program that takes two integer and display sum & average ?
+23 -  Write a program that takes three integer and display sum & average ?
+24 -  Write a program that calculates the area of a triangle ?
+25 -  Given the length of three arms of a triangle, write a program to calculate its area ? where,  area = sqrt(s(s-a)(s-b)(s-c)) ; s = (a+b+c)/2 : (s = semi-parameter)
+26 -  Write a program to calculate the area of a rectangle ?
+27 -  Write a program to calculate the area of circle ?  ( A = πr^2)
+28 -  Write a program to calculate the circumference of circle ? ( C = 2πr )
+
+ :::::::::::::::::::::  c/5  =  (f-32) / 9  =  (k-273) / 5  :::::::::::::::::::::::::
+29 -  C program to convert Centigrade to Fahrenheit ?
+30 -  C program to convert Fahrenheit to Centigrade ?
+
+31 -  Write a program to swapping the two number ?  ( use ::  temporary variable )
+31 -  Write a program to swapping the two number ?  ( don't use ::  temporary variable )
+
+32 -  Write a program to find the roots of the quadratic equation ?   ( ax^2 + bx + c = 0 )  where, d = sqrt(b*b-4*a*c)  ;   x1 = (-b+d)/(2*a)   ;   x2 = (-b-d)/(2*a)
