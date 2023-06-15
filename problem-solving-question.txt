@@ -13,7 +13,7 @@ Practice Program ::  (Basic)
 
 :::: ASCII Character & Equivalent Value  :::::
 	=>   A= 065 ,  B= 066,  C= 067 ... ... Z= 090;      
-	=>   a= 097,  b= 098,  c= 099 ... ... z=122 ; 
+	=>   a= 097,  b= 098,  c= 099 ... ... z=122 ;  ]    
 	=> ( lower = upper + 32 )  /  ( upper = lower - 32 )
 
 10 -  C program to convert ASCII value from character ?
