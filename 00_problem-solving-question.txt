@@ -54,3 +54,32 @@ Practice Program :: 2  ( Arithmetic Operator )
 31 -  Write a program to swapping the two number ?  ( don't use ::  temporary variable )
 
 32 -  Write a program to find the roots of the quadratic equation ?   ( ax^2 + bx + c = 0 )  where, d = sqrt(b*b-4*a*c)  ;   x1 = (-b+d)/(2*a)   ;   x2 = (-b-d)/(2*a)
+
+
+Practice Program :: 3  ( Math )
+*******************************
+33 -  abs()
+34 -  sqrt()
+35 -  pow()
+
+36 -  log() , log10() , log2() , exp()
+37 -  sin() , cos() , tan()
+
+38 -  round()	[ double/float ke integer e rupantorito kore ]
+38 -  trunc()	[ dosomik er porer digit gula remove kore , just integer digit ta print korbe ]
+38 -  ceil()	[ float/double number tar immediate porer integer number e rupantorito korbe ]
+38 -  floor()	[ float/double number tar immediate ager integer number e rupantorito korbe ]
+
+39 - Assignment operator 
+40 - Unary operator 
+41 - Unary operator (deeply)
+
+42 - if condition
+43 - if else condition
+44 - if ,  else if , else condition
+
+Practice Program :: 4  ( if else )
+**********************************
+45 -  Write a program to determine a number even or odd ?
+46 -  Write a program to determine the largest number between the two numbers ?
+47 -  Write a program to determine a number positive or negative ?
