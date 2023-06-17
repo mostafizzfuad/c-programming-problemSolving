@@ -1,3 +1,4 @@
+//
 #include <stdio.h>
 int a = 10; /// global variable
 int main() {

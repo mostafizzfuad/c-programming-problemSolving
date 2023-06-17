@@ -83,3 +83,15 @@ Practice Program :: 4  ( if else )
 45 -  Write a program to determine a number even or odd ?
 46 -  Write a program to determine the largest number between the two numbers ?
 47 -  Write a program to determine a number positive or negative ?
+
+
+Practice Program :: 5  ( logical operator )
+*******************************************
+48 -  Write a program to check a letter vowel or consonant ?
+49 -  Write a program to determine the largest number between the three numbers ?
+50 -  Write a program to determine the smallest number between the three numbers ?
+51 -  Write a program to determine if a year is a leap year ?
+52 -  Write a program to determine if a letter is uppercase or lowercase ?
+53 -  Write a program to determine pass & fail ?
+54 -  Mark distribution -  Grade System 
+55 -  program  :  Local & Global Variable 
