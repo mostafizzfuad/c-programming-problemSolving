@@ -95,3 +95,13 @@ Practice Program :: 5  ( logical operator )
 53 -  Write a program to determine pass & fail ?
 54 -  Mark distribution -  Grade System 
 55 -  program  :  Local & Global Variable 
+
+
+Practice Program :: 6  ( switch )
+*********************************
+56 -  Write a program that reads a digit and displays its spelling ?
+57 -  Write a program to check a letter vowel or consonant ?  
+
+Practice Program :: 7  ( ternary operator )
+*******************************************
+58 -  Write a program to determine the largest number between the two numbers ? 
