@@ -105,3 +105,22 @@ Practice Program :: 6  ( switch )
 Practice Program :: 7  ( ternary operator )
 *******************************************
 58 -  Write a program to determine the largest number between the two numbers ? 
+
+Practice Program :: 8  ( bitwise operator )
+*******************************************
+59 -  Write a program to use bitwise AND, OR, X-OR
+
+Practice Program :: 9  ( loop basic )
+*************************************
+60 -  Write a program to print your name 10 times (for loop)
+61 -  Write a program to print 1-100 integer number (for loop)
+62 -  Write a program to print 1-100 even number (for loop)
+63 -  Write a program to print 1-100 odd number (for loop)
+
+64 -  Write a program to print 1-100 integer number (while loop)
+65 -  Write a program to print 1-100 integer number (do while loop)
+
+66 - difference between for, while and do-while loop
+67 - infinity loop
+68 - break and continue
+69 - goto statement
