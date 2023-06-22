@@ -1,22 +1,24 @@
-/*************************
-102 -  Pattern program (7)
-------------------------------
-a
-a b
-a b c
-a b c d
+/**********************************************
+Pattern - Square
+****************
+102 -  Pattern program (1)
+--------------------------
+* * * *
+* * * *
+* * * *
+* * * *
 ***************************/
 #include <stdio.h>
 int main() {
 
-    int numberOfRows, row, col;
+    int numberOfRows;
 
     printf("Enter number of rows : ");
     scanf("%d", &numberOfRows);
-
+    
     for (int row = 1; row <= numberOfRows; row++) {
-        for (int col = 1; col <= row; col++) {
-            printf("%c ", col + 96);
+        for (int col = 1; col <= numberOfRows; col++) {
+            printf("* ");
         } printf("\n");
     }
 
