@@ -166,3 +166,79 @@ Practice Program :: 11  ( series )
 94 -  Lucas series :  1 - 2 + 3 - 4 + 5 - 6 + ... ...
 95 -  Fibonacci series :  0 1 1 2 3 5 8 13 ... ...
 
+
+
+Practice Program :: 12  ( nasted loop )
+***************************************
+Pattern - Right Angle Triangle
+******************************
+96 -  Pattern program (1)
+-----------------------------
+1
+1 2
+1 2 3
+1 2 3 4
+
+
+97 -  Pattern program (2)
+------------------------------
+1
+2 2
+3 3 3
+4 4 4 4
+
+
+98 -  Pattern program (3)
+------------------------------
+1
+1 0
+1 0 1
+1 0 1 0
+
+
+99 -  Pattern program (4)
+-----------------------------
+1
+0 0
+1 1 1
+0 0 0 0
+
+
+100 -  Pattern program (5)
+------------------------------
+A
+A B
+A B C
+A B C D
+
+
+101 -  Pattern program (6)
+-----------------------------
+A
+B B
+C C C
+D D D D
+
+
+102 -  Pattern program (7)
+------------------------------
+a
+a b
+a b c
+a b c d
+
+
+103 -  Pattern program (8)
+-----------------------------
+a
+b b
+c c c
+d d d d
+
+
+104 -  Pattern program (9)
+------------------------------
+*
+* *
+* * *
+* * * *

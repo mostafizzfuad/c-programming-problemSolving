@@ -1,3 +1,11 @@
+/*************************
+102 -  Pattern program (7)
+------------------------------
+a
+a b
+a b c
+a b c d
+***************************/
 #include <stdio.h>
 int main() {
 
@@ -8,7 +16,7 @@ int main() {
 
     for (int row = 1; row <= numberOfRows; row++) {
         for (int col = 1; col <= row; col++) {
-            printf("* ");
+            printf("%c ", col + 96);
         } printf("\n");
     }
 
