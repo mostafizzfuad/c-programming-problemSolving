@@ -1,3 +1,12 @@
+/***************************
+106 -  Pattern program (3)
+--------------------------
+    *
+  * * *
+* * * * *
+  * * *
+    *
+***************************/
 #include <stdio.h>
 int main() {
 
@@ -5,34 +14,26 @@ int main() {
 
     printf("Enter number of rows : ");
     scanf("%d", &numberOfRows);
-    /// top
+    /// top pyramid
     for (int row = 1; row <= numberOfRows; row++) {
         /// printing space
         for (int col = 1; col <= numberOfRows - row; col++) {
             printf(" ");
-        }
-        /// left digit
-        for (int col = 1; col <= row; col++) {
-            printf("%d", col);
         } 
-        /// right digit
-        for (int col = row - 1; col >= 1; col--) {
-            printf("%d", col);
+        /// printing star
+        for (int col = 1; col <= 2 * row - 1; col++) {
+            printf("*");
         } printf("\n");
     }
-    /// bottom
+    /// bottom reverse pyramid
     for (int row = numberOfRows - 1; row >= 1; row--) {
         /// printing space
         for (int col = 1; col <= numberOfRows - row; col++) {
             printf(" ");
-        }
-        /// left digit
-        for (int col = 1; col <= row; col++) {
-            printf("%d", col);
         } 
-        /// right digit
-        for (int col = row - 1; col >= 1; col--) {
-            printf("%d", col);
+        /// printing star
+        for (int col = 1; col <= 2 * row - 1; col++) {
+            printf("*");
         } printf("\n");
     }
 
