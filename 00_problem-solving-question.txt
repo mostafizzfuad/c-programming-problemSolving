@@ -556,11 +556,23 @@ Pattern - Shape
 
 
 Practice Program :: 13  ( 1D Array )
-*************************************
+************************************
 117 -  Write a program to take some integers as input and output their sum & average
 118 -  Write a program to take some integers as input and display maximum
 119 -  Write a program to take some integers as input and display minimum
 120 -  Write a program to print Fibonacci series using array
 121 -  Write a program to search for a number using linear search ?
 122 -  Write a program to Copy all elements of an array to another array
+
+
+
+Practice Program ::  (2D Array)
+*******************************
+123 -  Write a program to print A[3][4] matrix elements ?
+124 -  Write a program to input A[3][4] matrix & print elements ?
+125 -  Write a program to add & subtraction between two matrices ?
+126 -  Write a program to multiplication between two matrices ?
+127 -  Write a program to convert a matrix into a transpose matrix ?
+128 -  Write a program to Sum of diagonal elements of a matrix ?
+129 -  Write a program to Sum of upper & lower triangles elements of a matrix ?
 
