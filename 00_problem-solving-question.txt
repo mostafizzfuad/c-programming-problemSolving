@@ -552,3 +552,15 @@ Pattern - Shape
   1 2 3 2 1
     1 2 1 
       1 
+
+
+
+Practice Program :: 13  ( 1D Array )
+*************************************
+117 -  Write a program to take some integers as input and output their sum & average
+118 -  Write a program to take some integers as input and display maximum
+119 -  Write a program to take some integers as input and display minimum
+120 -  Write a program to print Fibonacci series using array
+121 -  Write a program to search for a number using linear search ?
+122 -  Write a program to Copy all elements of an array to another array
+

@@ -1,3 +1,4 @@
+// 122 -  Write a program to Copy all elements of an array to another array
 #include <stdio.h>
 int main() {
 
