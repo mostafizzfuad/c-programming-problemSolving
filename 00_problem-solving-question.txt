@@ -576,3 +576,23 @@ Practice Program ::  (2D Array)
 128 -  Write a program to Sum of diagonal elements of a matrix ?
 129 -  Write a program to Sum of upper & lower triangles elements of a matrix ?
 
+
+
+Practice Program ::  (String)
+*****************************
+130 -  Write a program to your name using string ?
+131 -  Write a program to input your name & print this name using string ?
+132 -  Write a program to display string character wise ?
+133 -  Write a program to find the length of a String using the library function ?
+134 -  Write a program to Copy a string using strcpy() function ?
+135 -  Write a program to string concatenation using strcat() function ?
+135 -  Write a program to string concatenation without strcat() function ?
+136 -  Write a program to string compare using strcmp() function ?
+137 -  Write a program to string reverse using strrev() function ?
+137 -  Write a program to string reverse without strrev() function ?
+138 -  Write a program to check a string palindrome or not ?
+139 -  Write a program to swap a string ?
+140 -  Write a program using strupr() & strlwr() function ?
+141 -  Write a program to calculate the number of vowels, consonants, words, digits and other ?
+142 -  Write a program to calculate the number of capital letters, small letters & digits ?
+
