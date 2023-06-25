@@ -1,7 +1,8 @@
+// 128 -  Write a program to Sum of diagonal elements of a matrix ?
 #include <stdio.h>
 int main() {
 
-    int A[3][3], upperSum = 0, lowerSum = 0;
+    int A[3][3], sum = 0;
 
     // input matrix A
     printf("\nEnter the element of A matrix = \n");
@@ -19,29 +20,18 @@ int main() {
         } printf("\n");
     }
 
-    // calculates the sum of upperTriangle elements
-    printf("\nUpper triangle elements = ");
+    // calculates sum of diagonal elements
+    printf("\nDiagonal elements = ");
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
-            if (i < j) {
+            if (i == j) {
                 printf("%d ", A[i][j]);
-                upperSum += A[i][j];
+                sum += A[i][j];
             }
         }
     }
-    printf("\nSum of upper triangle elements = %d\n", upperSum);
-    
-    // calculates the sum of lowerTriangle elements
-    printf("\nLower triangle elements = ");
-    for (int i = 0; i < 3; i++) {
-        for (int j = 0; j < 3; j++) {
-            if (i > j) {
-                printf("%d ", A[i][j]);
-                lowerSum += A[i][j];
-            }
-        }
-    }
-    printf("\nSum of lower triangle elements = %d\n", lowerSum);
+
+    printf("\nSum of diagonal elements = %d\n", sum);
 
     return 0;
 }
