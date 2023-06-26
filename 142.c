@@ -1,3 +1,4 @@
+// 142 -  Write a program to calculate the number of capital letters, small letters & digits ?
 #include <stdio.h>
 int main() {
 
