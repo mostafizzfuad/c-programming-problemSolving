@@ -619,3 +619,18 @@ Practice Program ::  (Structure)
 154 -  passing structure variable to function
 
 
+
+Practice Program ::  (Union)
+****************************
+155 -  size of union and structure
+
+
+Practice Program ::  (enum)
+***************************
+156 -  enum basic program
+
+
+Practice Program ::  (typedef)
+******************************
+157 -  change primitive data type name
+158 -  change custom data type name

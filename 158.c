@@ -1,3 +1,4 @@
+// 158 -  change custom data type name
 #include <stdio.h>
 // structure declaration
 struct book {
