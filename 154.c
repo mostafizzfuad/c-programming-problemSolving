@@ -1,3 +1,4 @@
+// 154 -  passing structure variable to function
 #include <stdio.h>
 // structure declaration
 struct Person {

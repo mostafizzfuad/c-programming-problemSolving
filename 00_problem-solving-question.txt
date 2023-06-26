@@ -613,11 +613,9 @@ Practice Program ::  (Function)
 
 Practice Program ::  (Structure)
 ********************************
-151 -  Write a program that write simple structure program
-152 -  Write a program that write simple structure program (local & global)
-153 -  Write a program that write simple structure program (user input)
-154 -  Write a program that write simple structure program (direct initialization & assign)
-155 -  Write a program that write simple structure program (Structure comparison)
-156 -  Write a program that write simple structure program (Array of structure)
-157 -  Write a program that write simple structure program (Array within structure)
-158 -  Write a program that write simple structure program (passing structure variable to function)
+151 -  simple structure program
+152 -  user input , direct initialization , assign & comparison
+153 -  Array within structure
+154 -  passing structure variable to function
+
+
