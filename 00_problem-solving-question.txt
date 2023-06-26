@@ -596,3 +596,28 @@ Practice Program ::  (String)
 141 -  Write a program to calculate the number of vowels, consonants, words, digits and other ?
 142 -  Write a program to calculate the number of capital letters, small letters & digits ?
 
+
+
+Practice Program ::  (Function)
+*******************************
+143 -  Write a program to sum and subtraction between two numbers ?
+144 -  Write a program to square a number ?
+145 -  Write a program to calculate the area of a triangle ?
+146 -  Write a program to calculate pow() ? 
+147 -  Write a program that Passes Array to function ?
+148 -  Write a program that finding maximum value from an array using function
+149 -  Write a program that Passing String to function
+150 -  Write a program to calculate factorial using recursion ?
+
+
+
+Practice Program ::  (Structure)
+********************************
+151 -  Write a program that write simple structure program
+152 -  Write a program that write simple structure program (local & global)
+153 -  Write a program that write simple structure program (user input)
+154 -  Write a program that write simple structure program (direct initialization & assign)
+155 -  Write a program that write simple structure program (Structure comparison)
+156 -  Write a program that write simple structure program (Array of structure)
+157 -  Write a program that write simple structure program (Array within structure)
+158 -  Write a program that write simple structure program (passing structure variable to function)
