@@ -634,3 +634,15 @@ Practice Program ::  (typedef)
 ******************************
 157 -  change primitive data type name
 158 -  change custom data type name
+
+
+Practice Program ::  (pointer)
+******************************
+159 -  pointer basic program 1
+160 -  pointer basic program 2
+161 -  pointer pointing to different variable 
+162 -  Adding two numbers using pointer
+163 -  swapping two numbers
+164 -  swapping two numbers using pointer and function
+165 -  Access array elements using pointer
+
