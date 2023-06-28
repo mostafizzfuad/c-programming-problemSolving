@@ -625,15 +625,18 @@ Practice Program ::  (Union)
 155 -  size of union and structure
 
 
+
 Practice Program ::  (enum)
 ***************************
 156 -  enum basic program
+
 
 
 Practice Program ::  (typedef)
 ******************************
 157 -  change primitive data type name
 158 -  change custom data type name
+
 
 
 Practice Program ::  (pointer)
@@ -647,16 +650,26 @@ Practice Program ::  (pointer)
 165 -  Access array elements using pointer
 
 
+
 Practice Program ::  (file)
 ***************************
 166 - create a file & close it
 167 - Writing to a file using fputc
 168 - Writing to a file using fputs
 169 - Writing to a file using fprintf
-170 - Reading a file using fgetc
-171 - Reading a file using fgets
-172 - Reading a file using fscanf (single variable)
-173 - Reading a file using fscanf (multiple variable)
+170 - Read a file using fgetc
+171 - Read a file using fgets
+172 - Read a file using fscanf (single variable)
+173 - Read a file using fscanf (multiple variable)
 174 - storing student details
 
 
+
+Practice Program ::  (preprocessor)
+***********************************
+175 - Write a program to using #define 1
+176 - Write a program to using #define 2
+177 - Write a program to Create header file
+
+
+********* Alhamdulillah !! Complete C Programming Language **********
